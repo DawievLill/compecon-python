@@ -1,8 +1,9 @@
 
 
-### Slides for COMPECON course
+### Computational Economics
 
 Dawie van Lill
+University of the Western Cape
 
 #HSLIDE
 
