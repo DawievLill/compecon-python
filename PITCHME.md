@@ -2,13 +2,12 @@
 
 ### Computational Economics
 
-Dawie van Lill  
-University of the Western Cape
+Dawie van Lill | UWC
 
 #HSLIDE
 
- - These are the slides for an introductory **computational economics** course at UWC.
- - Interesting to see if this works
+ - These are the slides for an introductory **computational economics** course at UWC. <!-- .element: class="fragment" -->
+ - Interesting to see if this works <!-- .element: class="fragment" -->
 
 #HSLIDE
 
