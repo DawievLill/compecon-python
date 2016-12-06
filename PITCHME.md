@@ -7,7 +7,8 @@ University of the Western Cape
 
 #HSLIDE
 
-These are the slides for an introductory computational economics course at UWC.
+ - These are the slides for an introductory **computational economics** course at UWC.
+ - Interesting to see if this works
 
 #HSLIDE
 
