@@ -1,12 +1,12 @@
 
 
-### Can create slides for ECO730
+### Slides for COMPECON course
 
-This will be quite useful!
+Dawie van Lill
 
 #HSLIDE
 
-Nothing to see here people.
+These are the slides for an introductory computational economics course at UWC.
 
 #HSLIDE
 
