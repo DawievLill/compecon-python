@@ -12,6 +12,6 @@ Nothing to see here people.
 
 #HSLIDE
 
-I can also add math notation. $y = mx + c$
+I can also add math notation. $$y = mx + c$$
 
 #HSLIDE
