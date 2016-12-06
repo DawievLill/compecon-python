@@ -11,3 +11,7 @@ This will be quite useful!
 Nothing to see here people.
 
 #HSLIDE
+
+I can also add math notation. $y = mx + c$
+
+#HSLIDE
